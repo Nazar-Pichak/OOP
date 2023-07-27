@@ -1,4 +1,6 @@
-﻿# Practicing in OOP
+[![paradigm - OOP](https://img.shields.io/static/v1?label=paradigm&message=OOP&color=orange&logo=python&logoColor=yellow)](https://python.org)
+
+# Practicing in OOP
 
 Object-oriented programming is a programming paradigm that provides a means of structuring programs so that properties and behaviors are bundled into individual objects.
 
